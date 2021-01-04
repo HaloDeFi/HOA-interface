@@ -1,14 +1,19 @@
-# Sybil Interface
+# HOA interface
 
 [![Styled With Prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg)](https://prettier.io/)
 
-- Interface: [https://sybil.org](https://sybil.org)
-- Read the Sybil announcement post: [https://uniswap.org/blog/sybil/](https://uniswap.org/blog/sybil/)
-- Sybil list documentation: [https://github.com/Uniswap/sybil-list](https://github.com/Uniswap/sybil-list)
+## HaloDeFi Owners Association, Real Estate Governance 
 
-Sybil is a governance tool for discovering delegates. Sybil maps on-chain addresses to digital identities to maintain a list of delegates. This interface displays governance data for supported protocols, and also allows users to link social profiles with their Ethereum addresses. 
+Traditionally a homeowner's association (HOA) is an organization in a subdivision, planned community, or condominium building that makes and enforces rules for the properties and its residents. Those who purchase property within an HOA's jurisdiction automatically become members and are required to pay dues, known as HOA fees.
 
- Mainnet support only. 
+
+Originally forked from UniSwap Sybil [https://uniswap.org/blog/sybil/](https://uniswap.org/blog/sybil/)
+
+At it's core, HOA is governance tool. It's main feature is delegating votes to proposed real estate to be listed in hxMLS. It operates on the underlying ideas of mapping on-chain addresses to digital identities to maintain a list of delegates. This interface displays governance data for supported protocols, and also allows users to link social profiles with their Ethereum addresses. 
+
+
+# Original Sybil Notes
+
 
 ## Social Verification
 
